@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The weather is rainy, but some rain is good.</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112416Z" creationid="TRA_DL" creationdate="20220817T112416Z">
+        <seg>Il fait pluvieux, mais la pluie c'est bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The weather is sunny, but some rain would be good.</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112216Z" creationid="TRA_DL" creationdate="20220817T112216Z">
