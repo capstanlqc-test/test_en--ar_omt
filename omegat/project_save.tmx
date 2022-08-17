@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Oh, a dog!".</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T111912Z" creationid="TRA_DL" creationdate="20220817T111912Z">
+        <seg>Oh, un chien!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close dialogue</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105451Z" creationid="TRA_DL" creationdate="20220817T105451Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105446Z" creationid="TRA_DL" creationdate="20220817T105446Z">
         <seg>Vivez-vous dans [COUNTRY]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Let us see what happened.</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T111838Z" creationid="TRA_DL" creationdate="20220817T111838Z">
+        <seg>Voyons voir ce qui s'est passé.</seg>
       </tuv>
     </tu>
     <tu>
