@@ -80,8 +80,8 @@
       <tuv lang="en">
         <seg>Do you work in [COUNTRY]?</seg>
       </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T111952Z" creationid="TRA_DL" creationdate="20220817T111952Z">
-        <seg>Travaillez-vous dans [COUNTRY]?</seg>
+      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112325Z" creationid="TRA_DL" creationdate="20220817T111952Z">
+        <seg>Travaillez vous?</seg>
       </tuv>
     </tu>
     <tu>
