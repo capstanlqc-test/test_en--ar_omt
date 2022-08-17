@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Oh, a rabbit!".</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112219Z" creationid="TRA_DL" creationdate="20220817T112219Z">
+        <seg>Oh, un lapinou!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close box</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112231Z" creationid="TRA_DL" creationdate="20220817T112231Z">
+        <seg>Fermer l'onglet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close dialogue</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105451Z" creationid="TRA_DL" creationdate="20220817T105451Z">
@@ -42,6 +58,14 @@
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112159Z" creationid="TRA_DL" creationdate="20220817T112159Z">
         <seg>Danina a testé une automation. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Did you live in [COUNTRY]?</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112225Z" creationid="TRA_DL" creationdate="20220817T112225Z">
+        <seg>Avez vous vécu dans [COUNTRY]?</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open box</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112233Z" creationid="TRA_DL" creationdate="20220817T112233Z">
+        <seg>Ouvrir l'onglet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open dialogue</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105453Z" creationid="TRA_DL" creationdate="20220817T105453Z">
@@ -98,6 +130,22 @@
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105434Z" creationid="TRA_DL" creationdate="20220817T105434Z">
         <seg>La météo est pourrie, mais un peu de pluie ça fait du bien. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The weather is sunny, but some rain would be good.</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112216Z" creationid="TRA_DL" creationdate="20220817T112216Z">
+        <seg>Il ya du soleil, mais un peu de pluie ce serait cool. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We saw what happened.</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112207Z" creationid="TRA_DL" creationdate="20220817T112207Z">
+        <seg>On a vu ce qui est arrivé. </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
