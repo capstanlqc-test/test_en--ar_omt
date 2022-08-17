@@ -1,0 +1,22 @@
+[
+  {
+    "XPath":"Administration.Common_Seconds",
+    "Text":"Danina teste une automation. "
+  },
+  {
+    "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_CheckboxWording_ToggleButtonLabelDescription",
+    "Text":"Voyons voir ce qui se passe. "
+  },
+  {
+    "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_EndToEndQuestionNumbering_ToggleButtonLabelDescription",
+    "Text":"La météo est pourrie, mais un peu de pluie ça fait du bien. "
+  },
+  {
+    "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_HorizontalSourceMaterialLayout_ToggleButtonLabelDescription",
+    "Text":"Oh, un chat!? "
+  },
+  {
+    "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_ItemSetCollapsibility_ToggleButtonLabelDescription",
+    "Text":"Vivez-vous dans [COUNTRY]? "
+  }
+]
