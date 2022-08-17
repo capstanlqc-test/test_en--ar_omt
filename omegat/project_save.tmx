@@ -46,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ok</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105454Z" creationid="TRA_DL" creationdate="20220817T105454Z">
+        <seg>Ok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open dialogue</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105453Z" creationid="TRA_DL" creationdate="20220817T105453Z">
+        <seg>Open dialogue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The weather is not nice today, but some rain is good.</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105434Z" creationid="TRA_DL" creationdate="20220817T105434Z">
