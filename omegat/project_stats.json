@@ -1,0 +1,132 @@
+{
+  "date": "20240404T192759Z",
+  "total": {
+    "characters-without-spaces": 236,
+    "characters": 281,
+    "words": 56,
+    "files": 3,
+    "segments": 13
+  },
+  "unique-remaining": {
+    "characters-without-spaces": 0,
+    "characters": 0,
+    "words": 0,
+    "files": 0,
+    "segments": 0
+  },
+  "unique": {
+    "characters-without-spaces": 236,
+    "characters": 281,
+    "words": 56,
+    "files": 3,
+    "segments": 13
+  },
+  "project": {
+    "root": "/run/media/souto/ExtremePro/Work/TEST_ara-ZZZ_OMT/",
+    "source-language": "en",
+    "target-language": "ar-ZZ",
+    "name": "TEST_ara-ZZZ_OMT"
+  },
+  "files": [
+    {
+      "total": {
+        "characters-without-spaces": 17,
+        "characters": 19,
+        "words": 5,
+        "files": 0,
+        "segments": 3
+      },
+      "filename": "2022_AUG04/DL_deliver_en.xls.json",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 17,
+        "characters": 19,
+        "words": 5,
+        "files": 0,
+        "segments": 3
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 105,
+        "characters": 126,
+        "words": 25,
+        "files": 0,
+        "segments": 5
+      },
+      "filename": "2022_AUG04/DL_version_en.xls.json",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 105,
+        "characters": 126,
+        "words": 25,
+        "files": 0,
+        "segments": 5
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 114,
+        "characters": 136,
+        "words": 26,
+        "files": 0,
+        "segments": 5
+      },
+      "filename": "2022_AUG05/DL_addition_en.xls.json",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 114,
+        "characters": 136,
+        "words": 26,
+        "files": 0,
+        "segments": 5
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    }
+  ],
+  "remaining": {
+    "characters-without-spaces": 0,
+    "characters": 0,
+    "words": 0,
+    "files": 0,
+    "segments": 0
+  }
+}
