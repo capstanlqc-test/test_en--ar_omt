@@ -104,8 +104,8 @@
       <tuv lang="en">
         <seg>Ok</seg>
       </tuv>
-      <tuv lang="ar-ZZ" changeid="souto" changedate="20240404T172022Z" creationid="TRA_DL" creationdate="20220817T105454Z">
-        <seg>FOO</seg>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240404T172756Z" creationid="TRA_DL" creationdate="20220817T105454Z">
+        <seg>bar</seg>
       </tuv>
     </tu>
     <tu>
