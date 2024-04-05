@@ -1,14 +1,14 @@
 [
   {
-    "XPath":"Accessibility.NewPopup.CollapseDialogueButtonLabel",
+    "XQuery":"Accessibility.NewPopup.CollapseDialogueButtonLabel",
     "Text":"Fermer l'onglet"
   },
   {
-    "XPath":"Accessibility.NewPopup.ExpandDialogueButtonLabel",
+    "XQuery":"Accessibility.NewPopup.ExpandDialogueButtonLabel",
     "Text":"Ouvrir l'onglet"
   },
   {
-    "XPath":"Accessibility.NewPopup.OkButtonText",
-    "Text":"aldkfjhaldkfjh"
+    "XQuery":"Accessibility.NewPopup.OkButtonText",
+    "Text":"foo"
   }
 ]
