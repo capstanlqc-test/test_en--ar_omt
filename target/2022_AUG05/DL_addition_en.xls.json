@@ -1,22 +1,22 @@
 [
   {
-    "XQuery":"Administration.Common_Seconds",
+    "XPath":"Administration.Common_Seconds",
     "Text":"Danina teste une automation. "
   },
   {
-    "XQuery":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_CheckboxWording_ToggleButtonLabelDescription",
+    "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_CheckboxWording_ToggleButtonLabelDescription",
     "Text":"On a vu ce qui est arrivé. "
   },
   {
-    "XQuery":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_EndToEndQuestionNumbering_ToggleButtonLabelDescription",
+    "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_EndToEndQuestionNumbering_ToggleButtonLabelDescription",
     "Text":"Il ya du soleil, mais un peu de pluie ce serait cool. "
   },
   {
-    "XQuery":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_HorizontalSourceMaterialLayout_ToggleButtonLabelDescription",
+    "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_HorizontalSourceMaterialLayout_ToggleButtonLabelDescription",
     "Text":"Oh, un lapinou! "
   },
   {
-    "XQuery":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_ItemSetCollapsibility_ToggleButtonLabelDescription",
+    "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_ItemSetCollapsibility_ToggleButtonLabelDescription",
     "Text":"Avez vous vécu dans [COUNTRY]? "
   }
 ]
