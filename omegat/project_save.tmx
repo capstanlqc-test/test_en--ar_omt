@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.2_0_e154197d4" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_4c233b15c" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14,26 +14,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>"Oh, a dog!".</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T111912Z" creationid="TRA_DL" creationdate="20220817T111912Z">
-        <seg>Oh, un chien!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>"Oh, a rabbit!".</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112219Z" creationid="TRA_DL" creationdate="20220817T112219Z">
         <seg>Oh, un lapinou!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Close box</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112231Z" creationid="TRA_DL" creationdate="20220817T112231Z">
-        <seg>Fermer l'onglet</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,14 +38,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Danina tested an automation.</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T123204Z" creationid="TRA_DL" creationdate="20220817T112159Z">
-        <seg>TEST_offline.Danina a testé une automation. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Did you live in [COUNTRY]?</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112225Z" creationid="TRA_DL" creationdate="20220817T112225Z">
@@ -78,42 +54,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Do you work in [COUNTRY]?</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112325Z" creationid="TRA_DL" creationdate="20220817T111952Z">
-        <seg>Travaillez vous?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Let us see what happened.</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T111838Z" creationid="TRA_DL" creationdate="20220817T111838Z">
-        <seg>Voyons voir ce qui s'est passé.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Let us what happened.</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105423Z" creationid="TRA_DL" creationdate="20220817T105423Z">
         <seg>Voyons voir ce qui se passe. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Ok</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="souto" changedate="20240405T122454Z" creationid="TRA_DL" creationdate="20220817T105454Z">
-        <seg>foo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Open box</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112233Z" creationid="TRA_DL" creationdate="20220817T112233Z">
-        <seg>Ouvrir l'onglet</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,14 +74,6 @@
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105434Z" creationid="TRA_DL" creationdate="20220817T105434Z">
         <seg>La météo est pourrie, mais un peu de pluie ça fait du bien. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>The weather is rainy, but some rain is good.</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112416Z" creationid="TRA_DL" creationdate="20220817T112416Z">
-        <seg>Il fait pluvieux, mais la pluie c'est bien.</seg>
       </tuv>
     </tu>
     <tu>
