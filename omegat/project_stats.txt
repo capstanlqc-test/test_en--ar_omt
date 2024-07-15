@@ -1,10 +1,10 @@
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
-Total:           	      13	   56	                    236	                   281	     3	
-Remaining:       	       8	   30	                    122	                   145	     2	
-Unique:          	      13	   56	                    236	                   281	     3	
-Unique Remaining:	       8	   30	                    122	                   145	     2	
+Total:           	      15	   63	                    265	                   315	     4	
+Remaining:       	      10	   37	                    151	                   179	     3	
+Unique:          	      15	   63	                    265	                   315	     4	
+Unique Remaining:	      10	   37	                    151	                   179	     3	
 
 
 Individual File Statistics:
@@ -13,3 +13,4 @@ File Name                         	Total Segments	Remaining Segments	Unique Segm
 2022_AUG04/DL_deliver_en.xls.json 	             3	                 3	              3	                        3	          5	              5	           5	                     5	                           17	                               17	                            17	                                      17	                          19	                              19	                           19	                                     19	
 2022_AUG04/DL_version_en.xls.json 	             5	                 5	              5	                        5	         25	             25	          25	                    25	                          105	                              105	                           105	                                     105	                         126	                             126	                          126	                                    126	
 2022_AUG05/DL_addition_en.xls.json	             5	                 0	              5	                        0	         26	              0	          26	                     0	                          114	                                0	                           114	                                       0	                         136	                               0	                          136	                                      0	
+file_with_formatting.docx         	             2	                 2	              2	                        2	          7	              7	           7	                     7	                           29	                               29	                            29	                                      29	                          34	                              34	                           34	                                     34	
