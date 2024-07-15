@@ -1,5 +1,5 @@
 {
-  "date": "20240715T191641Z",
+  "date": "20240715T191726Z",
   "total": {
     "characters-without-spaces": 265,
     "characters": 315,
@@ -8,11 +8,11 @@
     "segments": 15
   },
   "unique-remaining": {
-    "characters-without-spaces": 151,
-    "characters": 179,
-    "words": 37,
-    "files": 3,
-    "segments": 10
+    "characters-without-spaces": 122,
+    "characters": 145,
+    "words": 30,
+    "files": 2,
+    "segments": 8
   },
   "unique": {
     "characters-without-spaces": 265,
@@ -131,11 +131,11 @@
       },
       "filename": "file_with_formatting.docx",
       "unique-remaining": {
-        "characters-without-spaces": 29,
-        "characters": 34,
-        "words": 7,
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
         "files": 0,
-        "segments": 2
+        "segments": 0
       },
       "unique": {
         "characters-without-spaces": 29,
@@ -145,19 +145,19 @@
         "segments": 2
       },
       "remaining": {
-        "characters-without-spaces": 29,
-        "characters": 34,
-        "words": 7,
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
         "files": 0,
-        "segments": 2
+        "segments": 0
       }
     }
   ],
   "remaining": {
-    "characters-without-spaces": 151,
-    "characters": 179,
-    "words": 37,
-    "files": 3,
-    "segments": 10
+    "characters-without-spaces": 122,
+    "characters": 145,
+    "words": 30,
+    "files": 2,
+    "segments": 8
   }
 }
