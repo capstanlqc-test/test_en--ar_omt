@@ -1,25 +1,25 @@
 {
-  "date": "20240715T191634Z",
+  "date": "20240715T191641Z",
   "total": {
-    "characters-without-spaces": 236,
-    "characters": 281,
-    "words": 56,
-    "files": 3,
-    "segments": 13
+    "characters-without-spaces": 265,
+    "characters": 315,
+    "words": 63,
+    "files": 4,
+    "segments": 15
   },
   "unique-remaining": {
-    "characters-without-spaces": 122,
-    "characters": 145,
-    "words": 30,
-    "files": 2,
-    "segments": 8
+    "characters-without-spaces": 151,
+    "characters": 179,
+    "words": 37,
+    "files": 3,
+    "segments": 10
   },
   "unique": {
-    "characters-without-spaces": 236,
-    "characters": 281,
-    "words": 56,
-    "files": 3,
-    "segments": 13
+    "characters-without-spaces": 265,
+    "characters": 315,
+    "words": 63,
+    "files": 4,
+    "segments": 15
   },
   "project": {
     "root": "/home/souto/Work/TEST_ara-ZZZ_OMT/",
@@ -120,13 +120,44 @@
         "files": 0,
         "segments": 0
       }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 29,
+        "characters": 34,
+        "words": 7,
+        "files": 0,
+        "segments": 2
+      },
+      "filename": "file_with_formatting.docx",
+      "unique-remaining": {
+        "characters-without-spaces": 29,
+        "characters": 34,
+        "words": 7,
+        "files": 0,
+        "segments": 2
+      },
+      "unique": {
+        "characters-without-spaces": 29,
+        "characters": 34,
+        "words": 7,
+        "files": 0,
+        "segments": 2
+      },
+      "remaining": {
+        "characters-without-spaces": 29,
+        "characters": 34,
+        "words": 7,
+        "files": 0,
+        "segments": 2
+      }
     }
   ],
   "remaining": {
-    "characters-without-spaces": 122,
-    "characters": 145,
-    "words": 30,
-    "files": 2,
-    "segments": 8
+    "characters-without-spaces": 151,
+    "characters": 179,
+    "words": 37,
+    "files": 3,
+    "segments": 10
   }
 }
