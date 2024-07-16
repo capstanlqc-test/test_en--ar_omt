@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.2_0_5080b7f93" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_3fb3f1fce" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13,11 +13,29 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>"Oh, a dog!".</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240715T222234Z" creationid="souto" creationdate="20240715T222233Z">
+        <seg>"أوه، كلب!".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>"Oh, a rabbit!".</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112219Z" creationid="TRA_DL" creationdate="20220817T112219Z">
         <seg>Oh, un lapinou!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Close box</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240715T222234Z" creationid="souto" creationdate="20240715T222233Z">
+        <seg>إغلاق الصندوق</seg>
       </tuv>
     </tu>
     <tu>
@@ -37,6 +55,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Danina tested an automation.</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240715T222234Z" creationid="souto" creationdate="20240715T222233Z">
+        <seg>اختبرت دانينا التشغيل الآلي.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Did you live in [COUNTRY]?</seg>
       </tuv>
@@ -50,6 +77,24 @@
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105446Z" creationid="TRA_DL" creationdate="20220817T105446Z">
         <seg>Vivez-vous dans [COUNTRY]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Do you work in [COUNTRY]?</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240715T222234Z" creationid="souto" creationdate="20240715T222233Z">
+        <seg>هل تعمل في [البلد]؟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Let us see what happened.</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240715T222234Z" creationid="souto" creationdate="20240715T222233Z">
+        <seg>دعونا نرى ما حدث.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69,6 +114,24 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Ok</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240715T222234Z" creationid="souto" creationdate="20240715T222233Z">
+        <seg>حسناً</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Open box</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240715T222234Z" creationid="souto" creationdate="20240715T222233Z">
+        <seg>صندوق مفتوح</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Open dialogue</seg>
       </tuv>
@@ -82,6 +145,15 @@
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105434Z" creationid="TRA_DL" creationdate="20220817T105434Z">
         <seg>La météo est pourrie, mais un peu de pluie ça fait du bien. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The weather is rainy, but some rain is good.</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240715T222234Z" creationid="souto" creationdate="20240715T222233Z">
+        <seg>الطقس ممطر، ولكن بعض الأمطار جيدة.</seg>
       </tuv>
     </tu>
     <tu>
