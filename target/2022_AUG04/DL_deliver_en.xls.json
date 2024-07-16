@@ -1,14 +1,14 @@
 [
   {
     "XPath":"Accessibility.NewPopup.CollapseDialogueButtonLabel",
-    "Text":"Close box"
+    "Text":"إغلاق الصندوق"
   },
   {
     "XPath":"Accessibility.NewPopup.ExpandDialogueButtonLabel",
-    "Text":"Open box"
+    "Text":"صندوق مفتوح"
   },
   {
     "XPath":"Accessibility.NewPopup.OkButtonText",
-    "Text":"Ok"
+    "Text":"حسناً"
   }
 ]
