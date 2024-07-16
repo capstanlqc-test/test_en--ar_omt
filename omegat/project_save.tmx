@@ -80,12 +80,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Do you work in [COUNTRY]?</seg>
       </tuv>
-      <tuv lang="ar-ZZ" changeid="souto" changedate="20240715T222234Z" creationid="souto" creationdate="20240715T222233Z">
-        <seg>هل تعمل في [البلد]؟</seg>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240716T180741Z" creationid="souto" creationdate="20240715T222233Z">
+        <seg>هل تعمل في [البلد]؟ [COUNTRY]</seg>
       </tuv>
     </tu>
     <tu>
