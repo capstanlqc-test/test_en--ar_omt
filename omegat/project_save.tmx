@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_3fb3f1fce" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_22ed06107" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -114,12 +114,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Ok</seg>
       </tuv>
-      <tuv lang="ar-ZZ" changeid="souto" changedate="20240715T222234Z" creationid="souto" creationdate="20240715T222233Z">
-        <seg>حسناً</seg>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240716T174223Z" creationid="souto" creationdate="20240715T222233Z">
+        <seg>وكي</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,10 +165,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>This is a &lt;g1&gt;bolded&lt;/g1&gt; word.</seg>
+        <seg>This is a &lt;g1>bolded&lt;/g1> word.</seg>
       </tuv>
-      <tuv lang="ar-ZZ" changeid="souto" changedate="20240715T171704Z" creationid="souto" creationdate="20240715T171704Z">
-        <seg>Ceci n'est pas une pipe</seg>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240716T174819Z" creationid="souto" creationdate="20240715T171704Z">
+        <seg>Ceci n'est pas une &lt;g1>pipe&lt;/g1></seg>
       </tuv>
     </tu>
     <tu>
