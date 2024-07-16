@@ -1,5 +1,4 @@
 {
-  "date": "20240715T191726Z",
   "total": {
     "characters-without-spaces": 265,
     "characters": 315,
@@ -8,11 +7,11 @@
     "segments": 15
   },
   "unique-remaining": {
-    "characters-without-spaces": 122,
-    "characters": 145,
-    "words": 30,
-    "files": 2,
-    "segments": 8
+    "characters-without-spaces": 0,
+    "characters": 0,
+    "words": 0,
+    "files": 0,
+    "segments": 0
   },
   "unique": {
     "characters-without-spaces": 265,
@@ -38,11 +37,11 @@
       },
       "filename": "2022_AUG04/DL_deliver_en.xls.json",
       "unique-remaining": {
-        "characters-without-spaces": 17,
-        "characters": 19,
-        "words": 5,
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
         "files": 0,
-        "segments": 3
+        "segments": 0
       },
       "unique": {
         "characters-without-spaces": 17,
@@ -52,11 +51,11 @@
         "segments": 3
       },
       "remaining": {
-        "characters-without-spaces": 17,
-        "characters": 19,
-        "words": 5,
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
         "files": 0,
-        "segments": 3
+        "segments": 0
       }
     },
     {
@@ -69,11 +68,11 @@
       },
       "filename": "2022_AUG04/DL_version_en.xls.json",
       "unique-remaining": {
-        "characters-without-spaces": 105,
-        "characters": 126,
-        "words": 25,
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
         "files": 0,
-        "segments": 5
+        "segments": 0
       },
       "unique": {
         "characters-without-spaces": 105,
@@ -83,11 +82,11 @@
         "segments": 5
       },
       "remaining": {
-        "characters-without-spaces": 105,
-        "characters": 126,
-        "words": 25,
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
         "files": 0,
-        "segments": 5
+        "segments": 0
       }
     },
     {
@@ -154,10 +153,10 @@
     }
   ],
   "remaining": {
-    "characters-without-spaces": 122,
-    "characters": 145,
-    "words": 30,
-    "files": 2,
-    "segments": 8
+    "characters-without-spaces": 0,
+    "characters": 0,
+    "words": 0,
+    "files": 0,
+    "segments": 0
   }
 }
