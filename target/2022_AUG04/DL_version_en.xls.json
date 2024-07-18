@@ -17,6 +17,6 @@
   },
   {
     "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_ItemSetCollapsibility_ToggleButtonLabelDescription",
-    "Text":"هل تعمل في [البلد]؟ "
+    "Text":"هل تعمل في [البلد]؟ [COUNTRY] "
   }
 ]
