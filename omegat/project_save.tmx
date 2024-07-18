@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_22ed06107" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_69e87fb6e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -164,18 +164,18 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>This is a &lt;g1>bolded&lt;/g1> word.</seg>
+        <seg>This is a &lt;g1&gt;bolded&lt;/g1&gt; word.</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="souto" changedate="20240716T174819Z" creationid="souto" creationdate="20240715T171704Z">
-        <seg>Ceci n'est pas une &lt;g1>pipe&lt;/g1></seg>
+        <seg>Ceci n'est pas une &lt;g1&gt;pipe&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>We saw what happened.</seg>
       </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112207Z" creationid="TRA_DL" creationdate="20220817T112207Z">
-        <seg>On a vu ce qui est arrivé. </seg>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240718T133446Z" creationid="TRA_DL" creationdate="20220817T112207Z">
+        <seg>sOn a vu ce qui est arrivé. </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
