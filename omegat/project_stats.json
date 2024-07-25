@@ -7,11 +7,11 @@
     "segments": 15
   },
   "unique-remaining": {
-    "characters-without-spaces": 0,
-    "characters": 0,
-    "words": 0,
-    "files": 0,
-    "segments": 0
+    "characters-without-spaces": 265,
+    "characters": 315,
+    "words": 63,
+    "files": 4,
+    "segments": 15
   },
   "unique": {
     "characters-without-spaces": 265,
@@ -37,11 +37,11 @@
       },
       "filename": "2022_AUG04/DL_deliver_en.xls.json",
       "unique-remaining": {
-        "characters-without-spaces": 0,
-        "characters": 0,
-        "words": 0,
+        "characters-without-spaces": 17,
+        "characters": 19,
+        "words": 5,
         "files": 0,
-        "segments": 0
+        "segments": 3
       },
       "unique": {
         "characters-without-spaces": 17,
@@ -51,11 +51,11 @@
         "segments": 3
       },
       "remaining": {
-        "characters-without-spaces": 0,
-        "characters": 0,
-        "words": 0,
+        "characters-without-spaces": 17,
+        "characters": 19,
+        "words": 5,
         "files": 0,
-        "segments": 0
+        "segments": 3
       }
     },
     {
@@ -68,11 +68,11 @@
       },
       "filename": "2022_AUG04/DL_version_en.xls.json",
       "unique-remaining": {
-        "characters-without-spaces": 0,
-        "characters": 0,
-        "words": 0,
+        "characters-without-spaces": 105,
+        "characters": 126,
+        "words": 25,
         "files": 0,
-        "segments": 0
+        "segments": 5
       },
       "unique": {
         "characters-without-spaces": 105,
@@ -82,11 +82,11 @@
         "segments": 5
       },
       "remaining": {
-        "characters-without-spaces": 0,
-        "characters": 0,
-        "words": 0,
+        "characters-without-spaces": 105,
+        "characters": 126,
+        "words": 25,
         "files": 0,
-        "segments": 0
+        "segments": 5
       }
     },
     {
@@ -99,11 +99,11 @@
       },
       "filename": "2022_AUG05/DL_addition_en.xls.json",
       "unique-remaining": {
-        "characters-without-spaces": 0,
-        "characters": 0,
-        "words": 0,
+        "characters-without-spaces": 114,
+        "characters": 136,
+        "words": 26,
         "files": 0,
-        "segments": 0
+        "segments": 5
       },
       "unique": {
         "characters-without-spaces": 114,
@@ -113,11 +113,11 @@
         "segments": 5
       },
       "remaining": {
-        "characters-without-spaces": 0,
-        "characters": 0,
-        "words": 0,
+        "characters-without-spaces": 114,
+        "characters": 136,
+        "words": 26,
         "files": 0,
-        "segments": 0
+        "segments": 5
       }
     },
     {
@@ -130,11 +130,11 @@
       },
       "filename": "file_with_formatting.docx",
       "unique-remaining": {
-        "characters-without-spaces": 0,
-        "characters": 0,
-        "words": 0,
+        "characters-without-spaces": 29,
+        "characters": 34,
+        "words": 7,
         "files": 0,
-        "segments": 0
+        "segments": 2
       },
       "unique": {
         "characters-without-spaces": 29,
@@ -144,19 +144,19 @@
         "segments": 2
       },
       "remaining": {
-        "characters-without-spaces": 0,
-        "characters": 0,
-        "words": 0,
+        "characters-without-spaces": 29,
+        "characters": 34,
+        "words": 7,
         "files": 0,
-        "segments": 0
+        "segments": 2
       }
     }
   ],
   "remaining": {
-    "characters-without-spaces": 0,
-    "characters": 0,
-    "words": 0,
-    "files": 0,
-    "segments": 0
+    "characters-without-spaces": 265,
+    "characters": 315,
+    "words": 63,
+    "files": 4,
+    "segments": 15
   }
 }
