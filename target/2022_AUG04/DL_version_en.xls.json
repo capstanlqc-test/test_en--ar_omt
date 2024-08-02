@@ -1,22 +1,22 @@
 [
   {
     "XPath":"Administration.Common_Seconds",
-    "Text":"اختبرت دانينا التشغيل الآلي."
+    "Text":"Danina tested an automation."
   },
   {
     "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_CheckboxWording_ToggleButtonLabelDescription",
-    "Text":"دعونا نرى ما حدث."
+    "Text":"Let us see what happened."
   },
   {
     "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_EndToEndQuestionNumbering_ToggleButtonLabelDescription",
-    "Text":"الطقس ممطر، ولكن بعض الأمطار جيدة."
+    "Text":"The weather is rainy, but some rain is good."
   },
   {
     "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_HorizontalSourceMaterialLayout_ToggleButtonLabelDescription",
-    "Text":"\"أوه، كلب!\". "
+    "Text":"\"Oh, a dog!\". "
   },
   {
     "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_ItemSetCollapsibility_ToggleButtonLabelDescription",
-    "Text":"هل تعمل في [البلد]؟ "
+    "Text":"Do you work in [COUNTRY]? "
   }
 ]
