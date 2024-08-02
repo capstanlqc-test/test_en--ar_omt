@@ -5,28 +5,12 @@
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="en">
-        <seg>"Oh, a cat!".</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105439Z" creationid="TRA_DL" creationdate="20220817T105439Z">
-        <seg>Oh, une chatte!?</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>"Oh, a dog!".</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
         <seg>"أوه، كلب!".</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"Oh, a rabbit!".</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112219Z" creationid="TRA_DL" creationdate="20220817T112219Z">
-        <seg>Oh, un lapinou!</seg>
       </tuv>
     </tu>
     <tu>
@@ -39,44 +23,12 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
-        <seg>Close dialogue</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105451Z" creationid="TRA_DL" creationdate="20220817T105451Z">
-        <seg>Close dialogue</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Danina is testing an automation.</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105418Z" creationid="TRA_DL" creationdate="20220817T105418Z">
-        <seg>Danina teste une automation. </seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Danina tested an automation.</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
         <seg>اختبرت دانينا التشغيل الآلي.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Did you live in [COUNTRY]?</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112225Z" creationid="TRA_DL" creationdate="20220817T112225Z">
-        <seg>Avez vous vécu dans [COUNTRY]?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Do you live in [COUNTRY]?</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105446Z" creationid="TRA_DL" creationdate="20220817T105446Z">
-        <seg>Vivez-vous dans [COUNTRY]?</seg>
       </tuv>
     </tu>
     <tu>
@@ -95,14 +47,6 @@
       </tuv>
       <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
         <seg>دعونا نرى ما حدث.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Let us what happened.</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105423Z" creationid="TRA_DL" creationdate="20220817T105423Z">
-        <seg>Voyons voir ce qui se passe. </seg>
       </tuv>
     </tu>
     <tu>
@@ -133,22 +77,6 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
-        <seg>Open dialogue</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105453Z" creationid="TRA_DL" creationdate="20220817T105453Z">
-        <seg>Open dialogue</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>The weather is not nice today, but some rain is good.</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105434Z" creationid="TRA_DL" creationdate="20220817T105434Z">
-        <seg>La météo est pourrie, mais un peu de pluie ça fait du bien. </seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The weather is rainy, but some rain is good.</seg>
@@ -158,28 +86,12 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
-        <seg>The weather is sunny, but some rain would be good.</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112216Z" creationid="TRA_DL" creationdate="20220817T112216Z">
-        <seg>Il ya du soleil, mais un peu de pluie ce serait cool. </seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This is a &lt;g1&gt;bolded&lt;/g1&gt; word.</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
         <seg>هذه كلمة &lt;g1&gt; بخط عريض&lt;/g1&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>We saw what happened.</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112207Z" creationid="TRA_DL" creationdate="20220817T112207Z">
-        <seg>On a vu ce qui est arrivé. </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
