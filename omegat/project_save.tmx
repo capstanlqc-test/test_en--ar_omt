@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_4c233b15c" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_69e87fb6e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13,11 +13,29 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>"Oh, a dog!".</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>"أوه، كلب!".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>"Oh, a rabbit!".</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112219Z" creationid="TRA_DL" creationdate="20220817T112219Z">
         <seg>Oh, un lapinou!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Close box</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>إغلاق الصندوق</seg>
       </tuv>
     </tu>
     <tu>
@@ -37,6 +55,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Danina tested an automation.</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>اختبرت دانينا التشغيل الآلي.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Did you live in [COUNTRY]?</seg>
       </tuv>
@@ -53,11 +80,56 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Do you work in [COUNTRY]?</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>هل تعمل في [البلد]؟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Let us see what happened.</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>دعونا نرى ما حدث.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Let us what happened.</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T105423Z" creationid="TRA_DL" creationdate="20220817T105423Z">
         <seg>Voyons voir ce qui se passe. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>M S</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>م س</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Ok</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>حسناً</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Open box</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>صندوق مفتوح</seg>
       </tuv>
     </tu>
     <tu>
@@ -77,11 +149,29 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The weather is rainy, but some rain is good.</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>الطقس ممطر، ولكن بعض الأمطار جيدة.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The weather is sunny, but some rain would be good.</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="TRA_DL" changedate="20220817T112216Z" creationid="TRA_DL" creationdate="20220817T112216Z">
         <seg>Il ya du soleil, mais un peu de pluie ce serait cool. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>This is a &lt;g1&gt;bolded&lt;/g1&gt; word.</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>هذه كلمة &lt;g1&gt; بخط عريض&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
