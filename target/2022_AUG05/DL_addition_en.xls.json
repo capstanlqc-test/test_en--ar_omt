@@ -1,22 +1,22 @@
 [
   {
     "XPath":"Administration.Common_Seconds",
-    "Text":"Danina is testing an automation."
+    "Text":"Danina teste une automation. "
   },
   {
     "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_CheckboxWording_ToggleButtonLabelDescription",
-    "Text":"We saw what happened."
+    "Text":"On a vu ce qui est arrivé. "
   },
   {
     "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_EndToEndQuestionNumbering_ToggleButtonLabelDescription",
-    "Text":"The weather is sunny, but some rain would be good."
+    "Text":"Il ya du soleil, mais un peu de pluie ce serait cool. "
   },
   {
     "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_HorizontalSourceMaterialLayout_ToggleButtonLabelDescription",
-    "Text":"\"Oh, a rabbit!\". "
+    "Text":"Oh, un lapinou! "
   },
   {
     "XPath":"Administration.Common_Settings_HtmlOnlyHeaderAndFooterTestDriverOptions_ItemSetCollapsibility_ToggleButtonLabelDescription",
-    "Text":"Did you live in [COUNTRY]? "
+    "Text":"Avez vous vécu dans [COUNTRY]? "
   }
 ]
