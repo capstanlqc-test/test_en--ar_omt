@@ -16,6 +16,15 @@
     <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
+        <seg>"Oh, a rabbit!".</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>"أوه، أرنب!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
         <seg>Close box</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
@@ -25,10 +34,28 @@
     <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
+        <seg>Danina is testing an automation.</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>تختبر دانينا التشغيل الآلي.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
         <seg>Danina tested an automation.</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
         <seg>اختبرت دانينا التشغيل الآلي.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Did you live in [COUNTRY]?</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>هل كنت تعيش في [البلد]؟</seg>
       </tuv>
     </tu>
     <tu>
@@ -88,10 +115,28 @@
     <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
+        <seg>The weather is sunny, but some rain would be good.</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>الطقس مشمس، ولكن بعض الأمطار ستكون جيدة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
         <seg>This is a &lt;g1&gt;bolded&lt;/g1&gt; word.</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
         <seg>هذه كلمة &lt;g1&gt; بخط عريض&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>We saw what happened.</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>لقد رأينا ما حدث.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
