@@ -88,15 +88,6 @@
     <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
-        <seg>Ok</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
-        <seg>حسناً</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="x-auto">auto</prop>
-      <tuv lang="en">
         <seg>Open box</seg>
       </tuv>
       <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
