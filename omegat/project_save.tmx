@@ -140,15 +140,5 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
-    <tu>
-      <prop type="file">2022_AUG04/DL_deliver_en.xls.json</prop>
-      <prop type="id">Accessibility.NewPopup.OkButtonText_0</prop>
-      <tuv lang="en">
-        <seg>Ok</seg>
-      </tuv>
-      <tuv lang="ar-ZZ" changeid="souto" changedate="20240809T131203Z" creationid="souto" creationdate="20240809T131203Z">
-        <seg>ممتاز!</seg>
-      </tuv>
-    </tu>
   </body>
 </tmx>
