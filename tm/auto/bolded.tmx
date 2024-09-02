@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_3d3c1b0e1" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>M S</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>م س</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>This is a &lt;g1&gt;bolded&lt;/g1&gt; word.</seg>
+      </tuv>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>هذه كلمة &lt;g1&gt; بخط عريض&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
