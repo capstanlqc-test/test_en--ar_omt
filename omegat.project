@@ -31,7 +31,7 @@
         <mapping local="/" repository="/"/>
       </repository>
       <repository type="git" url="https://github.com/capstanlqc-test/TEST_common_files.git">
-        <mapping local="source" repository="files"/>
+        <!-- <mapping local="source" repository="files"/> -->
         <mapping local="omegat/okf_json@delta.fprm" repository="settings/okf_json@delta.fprm"/>
         <mapping local="omegat/filters.xml" repository="settings/filters.xml"/>
       </repository>
