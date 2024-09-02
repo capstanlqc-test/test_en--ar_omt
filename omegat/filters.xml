@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <filters removeTags="true" removeSpacesNonseg="true" preserveSpaces="true" ignoreFileContext="false">
-    <filter className="org.omegat.filters3.xml.xliff.XLIFFFilter" enabled="false">
+    <filter className="org.omegat.filters3.xml.xliff.XLIFFFilter" enabled="true">
         <files sourceFilenameMask="*.xlf" targetFilenamePattern="${filename}"/>
         <files sourceFilenameMask="*.xliff" targetFilenamePattern="${filename}"/>
         <files sourceFilenameMask="*.sdlxliff" targetFilenamePattern="${filename}"/>
@@ -29,7 +29,7 @@
         <files sourceFilenameMask="*.ppt?" targetFilenamePattern="${filename}"/>
         <files sourceFilenameMask="*.vsdx" targetFilenamePattern="${filename}"/>
     </filter>
-    <filter className="org.omegat.filters3.xml.resx.ResXFilter" enabled="false">
+    <filter className="org.omegat.filters3.xml.resx.ResXFilter" enabled="true">
         <files sourceFilenameMask="*.??-??.resx" targetFilenamePattern="${nameOnly}.${targetLocaleLCID}.resx"/>
         <files sourceFilenameMask="*.??.resx" targetFilenamePattern="${nameOnly}.${targetLocaleLCID}.resx"/>
         <files sourceFilenameMask="*.resx" targetFilenamePattern="${nameOnly}.${targetLocaleLCID}.resx"/>
@@ -163,12 +163,6 @@
         <files sourceFilenameMask="*.xliff" targetFilenamePattern="${filename}"/>
         <files sourceFilenameMask="*.mxliff" targetFilenamePattern="${filename}"/>
         <files sourceFilenameMask="*.mqxliff" targetFilenamePattern="${filename}"/>
-        <option name="includeTUName" value="yes"/>
-        <option name="protectFinal" value="yes"/>
-        <option name="protectNoTrans" value="no"/>
-        <option name="useCustom" value="okf_xliff@ysc.fprm"/>
-        <option name="useDefault" value="no"/>
-        <option name="useNameAsId" value="yes"/>
     </filter>
     <filter className="net.sf.okapi.lib.omegat.XLIFF2Filter" enabled="true">
         <files sourceFilenameMask="*.xlf" targetFilenamePattern="${filename}"/>
@@ -196,11 +190,6 @@
     </filter>
     <filter className="net.sf.okapi.lib.omegat.XMLFilter" enabled="true">
         <files sourceFilenameMask="*.xml" targetFilenamePattern="${filename}"/>
-        <files sourceFilenameMask="*.resx" targetFilenamePattern="${filename}"/>
-        <option name="includeTUName" value="yes"/>
-        <option name="useCustom" value="okf_xml@ysc.fprm"/>
-        <option name="useDefault" value="no"/>
-        <option name="useNameAsId" value="yes"/>
     </filter>
     <filter className="net.sf.okapi.lib.omegat.TSFilter" enabled="true">
         <files sourceFilenameMask="*.ts" targetFilenamePattern="${filename}"/>
@@ -244,9 +233,8 @@
     <filter className="net.sf.okapi.lib.omegat.JSONFilter" enabled="true">
         <files sourceFilenameMask="*.json" targetFilenamePattern="${filename}"/>
         <option name="includeTUName" value="yes"/>
-        <option name="useCustom" value="okf_json@ysc.fprm"/>
+        <option name="useCustom" value="okf_json@delta.fprm"/>
         <option name="useDefault" value="no"/>
-        <option name="useNameAsId" value="yes"/>
     </filter>
     <filter className="org.omegat.filters4.xml.xliff.Xliff1Filter" enabled="true">
         <files sourceFilenameMask="*.xlf" targetFilenamePattern="${filename}"/>
@@ -254,6 +242,9 @@
     </filter>
     <filter className="org.omegat.filters4.xml.xliff.SdlProject" enabled="true">
         <files sourceFilenameMask="*.sdlppx" targetFilenamePattern="${filename}"/>
+    </filter>
+    <filter className="org.omegat.filters4.xml.xliff.MqXliff" enabled="true">
+        <files sourceFilenameMask="*.mqxliff" targetFilenamePattern="${filename}"/>
     </filter>
     <filter className="org.omegat.filters4.xml.xliff.SdlXliff" enabled="true">
         <files sourceFilenameMask="*.sdlxliff" targetFilenamePattern="${filename}"/>
