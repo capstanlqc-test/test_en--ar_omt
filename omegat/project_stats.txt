@@ -1,16 +1,13 @@
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
-Total:           	      15	   63	                    265	                   315	     4	
-Remaining:       	       0	    0	                      0	                     0	     0	
-Unique:          	      15	   63	                    265	                   315	     4	
-Unique Remaining:	       0	    0	                      0	                     0	     0	
+Total:           	       2	   11	                     51	                    60	     1	
+Remaining:       	       1	    6	                     24	                    29	     1	
+Unique:          	       2	   11	                     51	                    60	     1	
+Unique Remaining:	       1	    6	                     24	                    29	     1	
 
 
 Individual File Statistics:
 
-File Name                         	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
-2022_AUG04/DL_deliver_en.xls.json 	             3	                 0	              3	                        0	          5	              0	           5	                     0	                           17	                                0	                            17	                                       0	                          19	                               0	                           19	                                      0	
-2022_AUG04/DL_version_en.xls.json 	             5	                 0	              5	                        0	         25	              0	          25	                     0	                          105	                                0	                           105	                                       0	                         126	                               0	                          126	                                      0	
-2022_AUG05/DL_addition_en.xls.json	             5	                 0	              5	                        0	         26	              0	          26	                     0	                          114	                                0	                           114	                                       0	                         136	                               0	                          136	                                      0	
-file_with_formatting.docx         	             2	                 0	              2	                        0	          7	              0	           7	                     0	                           29	                                0	                            29	                                       0	                          34	                               0	                           34	                                      0	
+File Name                	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+file_with_formatting.docx	             2	                 1	              2	                        1	         11	              6	          11	                     6	                           51	                               24	                            51	                                      24	                          60	                              29	                           60	                                     29	
