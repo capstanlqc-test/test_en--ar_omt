@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_e78c1c0a1" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_57b1bb571" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -122,12 +122,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This is a &lt;g1&gt;bolded&lt;/g1&gt; word.</seg>
       </tuv>
-      <tuv lang="ar-ZZ" changeid="souto" changedate="20240725T132231Z" creationid="souto" creationdate="20240725T132229Z">
-        <seg>هذه كلمة &lt;g1&gt; بخط عريض&lt;/g1&gt;.</seg>
+      <tuv lang="ar-ZZ" changeid="souto" changedate="20241023T102637Z" creationid="souto" creationdate="20240725T132229Z">
+        <seg>&lt;g1&gt; هذه كلمة &lt;g1&gt; بخط عريض&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
