@@ -7,11 +7,11 @@
     "segments": 9
   },
   "unique-remaining": {
-    "characters-without-spaces": 93,
-    "characters": 111,
-    "words": 22,
-    "files": 2,
-    "segments": 4
+    "characters-without-spaces": 0,
+    "characters": 0,
+    "words": 0,
+    "files": 0,
+    "segments": 0
   },
   "unique": {
     "characters-without-spaces": 120,
@@ -37,11 +37,11 @@
       },
       "filename": "file_with_formatting.docx",
       "unique-remaining": {
-        "characters-without-spaces": 24,
-        "characters": 29,
-        "words": 6,
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
         "files": 0,
-        "segments": 1
+        "segments": 0
       },
       "unique": {
         "characters-without-spaces": 51,
@@ -51,11 +51,11 @@
         "segments": 2
       },
       "remaining": {
-        "characters-without-spaces": 24,
-        "characters": 29,
-        "words": 6,
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
         "files": 0,
-        "segments": 1
+        "segments": 0
       }
     },
     {
@@ -68,11 +68,11 @@
       },
       "filename": "foo.xml",
       "unique-remaining": {
-        "characters-without-spaces": 69,
-        "characters": 82,
-        "words": 16,
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
         "files": 0,
-        "segments": 3
+        "segments": 0
       },
       "unique": {
         "characters-without-spaces": 69,
@@ -82,19 +82,19 @@
         "segments": 3
       },
       "remaining": {
-        "characters-without-spaces": 162,
-        "characters": 192,
-        "words": 37,
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
         "files": 0,
-        "segments": 7
+        "segments": 0
       }
     }
   ],
   "remaining": {
-    "characters-without-spaces": 186,
-    "characters": 221,
-    "words": 43,
-    "files": 2,
-    "segments": 8
+    "characters-without-spaces": 0,
+    "characters": 0,
+    "words": 0,
+    "files": 0,
+    "segments": 0
   }
 }
