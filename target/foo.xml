@@ -2,27 +2,27 @@
 <file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <items>
         <label key="uuid101">
-            <text>هذه جملة مكررة.</text>
+            <text>This is a repeated sentence.</text>
         </label>
         <label key="uuid102">
-            <text>ما يلي موجه إلى فتاة:</text>
+            <text>The following is addressed to a girl:</text>
         </label>
         <label key="uuid103">
-            <text>ما هو عمرك؟</text>
+            <text>What is your age?</text>
         </label>
 
         <label key="uuid201">
-            <text>هذه جملة مكررة.</text>
+            <text>This is a repeated sentence.</text>
         </label>
         <label key="uuid202">
-            <text>ما يلي موجه إلى فتاة:</text>
+            <text>The following is addressed to a girl:</text>
         </label>
         <label key="uuid203">
-            <text>ما هو عمرك؟</text>
+            <text>What is your age?</text>
         </label>
 
         <label key="uuid301">
-            <text>هذه جملة مكررة.</text>
+            <text>This is a repeated sentence.</text>
         </label>
     </items>
 </file>
