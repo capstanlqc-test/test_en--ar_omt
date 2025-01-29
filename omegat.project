@@ -20,7 +20,7 @@
     <glossary_file>__DEFAULT__</glossary_file>
     <dictionary_dir>__DEFAULT__</dictionary_dir>
     <source_lang>en</source_lang>
-    <target_lang>ar-ZZ</target_lang>
+    <target_lang>ar</target_lang>
     <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
     <target_tok>org.omegat.tokenizer.LuceneArabicTokenizer</target_tok>
     <sentence_seg>true</sentence_seg>
@@ -31,6 +31,7 @@
         <mapping local="/" repository="/"/>
       </repository>
       <repository type="git" url="https://github.com/capstanlqc-test/TEST_common_files.git">
+		<mapping local="source" repository="files/test"/>
         <!-- <mapping local="source" repository="files"/> -->
         <mapping local="omegat/okf_json@delta.fprm" repository="settings/okf_json@delta.fprm"/>
         <!-- <mapping local="omegat/filters.xml" repository="settings/filters.xml"/> -->
