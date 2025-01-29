@@ -1,13 +1,14 @@
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
-Total:           	       2	   11	                     51	                    60	     1	
-Remaining:       	       1	    6	                     24	                    29	     1	
-Unique:          	       2	   11	                     51	                    60	     1	
-Unique Remaining:	       1	    6	                     24	                    29	     1	
+Total:           	       9	   48	                    213	                   252	     2	
+Remaining:       	       8	   43	                    186	                   221	     2	
+Unique:          	       5	   27	                    120	                   142	     2	
+Unique Remaining:	       4	   22	                     93	                   111	     2	
 
 
 Individual File Statistics:
 
 File Name                	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
 file_with_formatting.docx	             2	                 1	              2	                        1	         11	              6	          11	                     6	                           51	                               24	                            51	                                      24	                          60	                              29	                           60	                                     29	
+foo.xml                  	             7	                 7	              3	                        3	         37	             37	          16	                    16	                          162	                              162	                            69	                                      69	                         192	                             192	                           82	                                     82	

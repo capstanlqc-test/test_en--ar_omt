@@ -1,67 +1,100 @@
 {
   "total": {
-    "characters-without-spaces": 51,
-    "characters": 60,
-    "words": 11,
-    "files": 1,
-    "segments": 2
+    "characters-without-spaces": 213,
+    "characters": 252,
+    "words": 48,
+    "files": 2,
+    "segments": 9
   },
   "unique-remaining": {
-    "characters-without-spaces": 24,
-    "characters": 29,
-    "words": 6,
-    "files": 1,
-    "segments": 1
+    "characters-without-spaces": 93,
+    "characters": 111,
+    "words": 22,
+    "files": 2,
+    "segments": 4
   },
   "unique": {
-    "characters-without-spaces": 51,
-    "characters": 60,
-    "words": 11,
-    "files": 1,
-    "segments": 2
+    "characters-without-spaces": 120,
+    "characters": 142,
+    "words": 27,
+    "files": 2,
+    "segments": 5
   },
   "project": {
-    "root": "/home/souto/Work/TEST_ara-ZZZ_OMT/",
+    "root": "/media/souto/257-FLASH/dev/capstanlqc/omtmt4pe-api/offline/TEST_ara-ZZZ_OMT_OMT/",
     "source-language": "en",
-    "target-language": "ar-ZZ",
-    "name": "TEST_ara-ZZZ_OMT"
+    "target-language": "ar",
+    "name": "TEST_ara-ZZZ_OMT_OMT"
   },
-  "files": [{
-    "total": {
-      "characters-without-spaces": 51,
-      "characters": 60,
-      "words": 11,
-      "files": 0,
-      "segments": 2
+  "files": [
+    {
+      "total": {
+        "characters-without-spaces": 51,
+        "characters": 60,
+        "words": 11,
+        "files": 0,
+        "segments": 2
+      },
+      "filename": "file_with_formatting.docx",
+      "unique-remaining": {
+        "characters-without-spaces": 24,
+        "characters": 29,
+        "words": 6,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 51,
+        "characters": 60,
+        "words": 11,
+        "files": 0,
+        "segments": 2
+      },
+      "remaining": {
+        "characters-without-spaces": 24,
+        "characters": 29,
+        "words": 6,
+        "files": 0,
+        "segments": 1
+      }
     },
-    "filename": "file_with_formatting.docx",
-    "unique-remaining": {
-      "characters-without-spaces": 24,
-      "characters": 29,
-      "words": 6,
-      "files": 0,
-      "segments": 1
-    },
-    "unique": {
-      "characters-without-spaces": 51,
-      "characters": 60,
-      "words": 11,
-      "files": 0,
-      "segments": 2
-    },
-    "remaining": {
-      "characters-without-spaces": 24,
-      "characters": 29,
-      "words": 6,
-      "files": 0,
-      "segments": 1
+    {
+      "total": {
+        "characters-without-spaces": 162,
+        "characters": 192,
+        "words": 37,
+        "files": 0,
+        "segments": 7
+      },
+      "filename": "foo.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 69,
+        "characters": 82,
+        "words": 16,
+        "files": 0,
+        "segments": 3
+      },
+      "unique": {
+        "characters-without-spaces": 69,
+        "characters": 82,
+        "words": 16,
+        "files": 0,
+        "segments": 3
+      },
+      "remaining": {
+        "characters-without-spaces": 162,
+        "characters": 192,
+        "words": 37,
+        "files": 0,
+        "segments": 7
+      }
     }
-  }],
+  ],
   "remaining": {
-    "characters-without-spaces": 24,
-    "characters": 29,
-    "words": 6,
-    "files": 1,
-    "segments": 1
+    "characters-without-spaces": 186,
+    "characters": 221,
+    "words": 43,
+    "files": 2,
+    "segments": 8
   }
 }
