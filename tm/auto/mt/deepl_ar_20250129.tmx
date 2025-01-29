@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header adminlang="en-us" creationtool="omtmt4pe-api@dev" creationtoolversion="1.0" segtype="sentence" srclang="en" o_tmf="OmegaT"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is my best sentence yet.</seg>
+      </tuv>
+      <tuv xml:lang="ar">
+        <seg>هذه أفضل جملة لي حتى الآن.</seg>
+      </tuv>
+      <note>0.877379967327193</note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is a repeated sentence.</seg>
+      </tuv>
+      <tuv xml:lang="ar">
+        <seg>هذه جملة مكررة.</seg>
+      </tuv>
+      <note>0.95776112251039</note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following is addressed to a girl:</seg>
+      </tuv>
+      <tuv xml:lang="ar">
+        <seg>ما يلي موجه إلى فتاة:</seg>
+      </tuv>
+      <note>0.500578747731785</note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What is your age?</seg>
+      </tuv>
+      <tuv xml:lang="ar">
+        <seg>ما هو عمرك؟</seg>
+      </tuv>
+      <note>0.832183964852721</note>
+    </tu>
+  </body>
+</tmx>
