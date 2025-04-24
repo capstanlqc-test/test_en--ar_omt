@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.4_Beta_0_911305e31" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_976f2fe04" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -133,10 +133,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>This is a &lt;g1&gt;bolded&lt;/g1&gt; word.</seg>
+        <seg>This is a &lt;g1>bolded&lt;/g1> word.</seg>
       </tuv>
       <tuv lang="ar" changeid="souto" changedate="20241023T102637Z" creationid="souto" creationdate="20240725T132229Z">
-        <seg>&lt;g1&gt; هذه كلمة &lt;g1&gt; بخط عريض&lt;/g1&gt;.</seg>
+        <seg>&lt;g1> هذه كلمة &lt;g1> بخط عريض&lt;/g1>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -187,6 +187,17 @@
       </tuv>
       <tuv lang="ar" changeid="souto" changedate="20240809T131203Z" creationid="souto" creationdate="20240809T131203Z">
         <seg>ممتاز!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">foo.xml</prop>
+      <prop type="id">3_0</prop>
+      <note>0.832183964852721</note>
+      <tuv lang="en">
+        <seg>What is your age?</seg>
+      </tuv>
+      <tuv lang="ar" changeid="souto" changedate="20250424T080920Z" creationid="souto" creationdate="20250424T080920Z">
+        <seg>شو عمرك؟</seg>
       </tuv>
     </tu>
   </body>
