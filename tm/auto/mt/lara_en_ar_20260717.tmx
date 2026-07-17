@@ -7,8 +7,9 @@
         <seg>This is a &lt;g1&gt;bolded&lt;/g1&gt; word.</seg>
       </tuv>
       <tuv xml:lang="ar">
-        <seg>هذه كلمة بخط &lt;g1&gt;عريض&lt;/g1&gt;.</seg>
+        <seg>هذه كلمة بخط &lt;g1&gt;غامق&lt;/g1&gt;.</seg>
       </tuv>
+      <note>0.8085042834281921</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -17,6 +18,7 @@
       <tuv xml:lang="ar">
         <seg>هذه أفضل جملة لي حتى الآن.</seg>
       </tuv>
+      <note>0.8854201436042786</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -25,6 +27,7 @@
       <tuv xml:lang="ar">
         <seg>هذه جملة مكررة.</seg>
       </tuv>
+      <note>0.9105713367462158</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -33,6 +36,7 @@
       <tuv xml:lang="ar">
         <seg>ما يلي موجه إلى فتاة:</seg>
       </tuv>
+      <note>0.9270544648170471</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -41,6 +45,7 @@
       <tuv xml:lang="ar">
         <seg>كم عمرك؟</seg>
       </tuv>
+      <note>0.9216063022613525</note>
     </tu>
   </body>
 </tmx>
