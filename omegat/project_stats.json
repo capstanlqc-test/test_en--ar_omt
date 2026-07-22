@@ -21,10 +21,10 @@
     "segments": 5
   },
   "project": {
-    "root": "/media/souto/257-FLASH/dev/capstanlqc/omtmt4pe-api/offline/TEST_ara-ZZZ_OMT_OMT/",
+    "root": "/tmp/offline/test_en--ar_OMT/",
     "source-language": "en",
     "target-language": "ar",
-    "name": "TEST_ara-ZZZ_OMT_OMT"
+    "name": "test_en--ar_OMT"
   },
   "files": [
     {
@@ -82,19 +82,19 @@
         "segments": 3
       },
       "remaining": {
-        "characters-without-spaces": 0,
-        "characters": 0,
-        "words": 0,
+        "characters-without-spaces": 93,
+        "characters": 110,
+        "words": 21,
         "files": 0,
-        "segments": 0
+        "segments": 4
       }
     }
   ],
   "remaining": {
-    "characters-without-spaces": 0,
-    "characters": 0,
-    "words": 0,
-    "files": 0,
-    "segments": 0
+    "characters-without-spaces": 93,
+    "characters": 110,
+    "words": 21,
+    "files": 1,
+    "segments": 4
   }
 }

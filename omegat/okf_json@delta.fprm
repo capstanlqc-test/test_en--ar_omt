@@ -1,0 +1,21 @@
+#v1
+extractIsolatedStrings.b=false
+extractAllPairs.b=false
+exceptions=Text
+useKeyAsName.b=false
+useFullKeyPath.b=false
+useLeadingSlashOnKeyPath.b=true
+escapeForwardSlashes.b=false
+useCodeFinder.b=true
+noteRules=
+extractionRules=
+idRules=XPath
+genericMetaRules=
+codeFinderRules.count.i=3
+codeFinderRules.rule0=</?([A-Z0-9a-z]*)\b[^>]*>
+codeFinderRules.sample=&name; <tag></at><tag/> <tag attr='val'> </tag="val">
+codeFinderRules.useAllRulesWhenTesting.b=true
+subfilter=
+subfilterRules=
+codeFinderRules.rule1=@#@#CandidateName#@#@
+codeFinderRules.rule2=\{[^{}]+\}
