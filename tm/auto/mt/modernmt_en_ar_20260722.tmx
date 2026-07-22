@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header adminlang="en-us" creationtool="toledo" creationtoolversion="1.0" segtype="sentence" srclang="en" o_tmf="OmegaT"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is a &lt;g1&gt;bolded&lt;/g1&gt; word.</seg>
+      </tuv>
+      <tuv xml:lang="ar">
+        <seg>هذه كلمة &lt;g1&gt;جريئة&lt;/g1&gt;.</seg>
+      </tuv>
+      <note>0.5071799755096436</note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is my best sentence yet.</seg>
+      </tuv>
+      <tuv xml:lang="ar">
+        <seg>هذه أفضل جملة لي حتى الآن.</seg>
+      </tuv>
+      <note>0.8854201436042786</note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is a repeated sentence.</seg>
+      </tuv>
+      <tuv xml:lang="ar">
+        <seg>هذه جملة مكررة.</seg>
+      </tuv>
+      <note>0.910571277141571</note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following is addressed to a girl:</seg>
+      </tuv>
+      <tuv xml:lang="ar">
+        <seg>يتم توجيه ما يلي إلى فتاة:</seg>
+      </tuv>
+      <note>0.8859434723854065</note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What is your age?</seg>
+      </tuv>
+      <tuv xml:lang="ar">
+        <seg>كم عمرك ؟</seg>
+      </tuv>
+      <note>0.9172203540802002</note>
+    </tu>
+  </body>
+</tmx>
