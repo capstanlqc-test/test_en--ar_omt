@@ -27,7 +27,7 @@
     <support_default_translations>true</support_default_translations>
     <remove_tags>false</remove_tags>
     <repositories>
-      <repository type="git" url="https://github.com/capstanlqc-test/TEST_ara-ZZZ_OMT.git">
+      <repository type="git" url="https://github.com/capstanlqc-test/test_en--ar_omt.git">
         <mapping local="/" repository="/"/>
       </repository>
       <repository type="git" url="https://github.com/capstanlqc-test/TEST_common_files.git">
