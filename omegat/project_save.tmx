@@ -36,7 +36,8 @@
     </tu>
     <tu>
       <prop type="x-auto">auto</prop>
-      <note>{x:0.8854201436042786/good, y:p329048/bad}</note>
+      <note>{x:0.8854201436042786/good
+y:p329048/bad}</note>
       <tuv lang="en">
         <seg>This is my best sentence yet.</seg>
       </tuv>
