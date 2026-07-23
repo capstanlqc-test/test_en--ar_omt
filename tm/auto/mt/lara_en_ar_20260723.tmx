@@ -9,7 +9,6 @@
       <tuv xml:lang="ar">
         <seg>هذه كلمة بخط &lt;g1&gt;عريض&lt;/g1&gt;.</seg>
       </tuv>
-      <note>0.8158649802207947</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -18,7 +17,6 @@
       <tuv xml:lang="ar">
         <seg>هذه أفضل جملة لي حتى الآن.</seg>
       </tuv>
-      <note>0.8854201436042786</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -27,7 +25,8 @@
       <tuv xml:lang="ar">
         <seg>هذه جملة مكررة.</seg>
       </tuv>
-      <note>0.9105713367462158</note>
+      <prop type="id">1_0</prop>
+      <prop type="file">foo.xml</prop>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -36,7 +35,8 @@
       <tuv xml:lang="ar">
         <seg>ما يلي موجه إلى فتاة:</seg>
       </tuv>
-      <note>0.9270544648170471</note>
+      <prop type="id">2_0</prop>
+      <prop type="file">foo.xml</prop>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -45,7 +45,8 @@
       <tuv xml:lang="ar">
         <seg>كم عمرك؟</seg>
       </tuv>
-      <note>0.9216062426567078</note>
+      <prop type="id">3_0</prop>
+      <prop type="file">foo.xml</prop>
     </tu>
   </body>
 </tmx>
