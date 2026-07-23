@@ -35,13 +35,9 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.8854201436042786</note>
       <tuv lang="en">
         <seg>This is my best sentence yet.</seg>
-      </tuv>
-      <tuv lang="ar">
-        <seg>هذه أفضل جملة لي حتى الآن.</seg>
       </tuv>
     </tu>
     <tu>
