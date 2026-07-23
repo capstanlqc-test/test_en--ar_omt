@@ -18,7 +18,7 @@
       <tuv xml:lang="ar">
         <seg>هذه أفضل جملة لي حتى الآن.</seg>
       </tuv>
-      <note>0.8854201436042786</note>
+      <note>0.8854200839996338</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -27,7 +27,7 @@
       <tuv xml:lang="ar">
         <seg>هذه جملة مكررة.</seg>
       </tuv>
-      <note>0.9105713367462158</note>
+      <note>0.9105713963508606</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -45,7 +45,7 @@
       <tuv xml:lang="ar">
         <seg>كم عمرك؟</seg>
       </tuv>
-      <note>0.9216062426567078</note>
+      <note>0.9216063022613525</note>
     </tu>
   </body>
 </tmx>
