@@ -7,46 +7,45 @@
         <seg>This is a &lt;g1&gt;bolded&lt;/g1&gt; word.</seg>
       </tuv>
       <tuv xml:lang="ar">
-        <seg>Жжжж жж ж &lt;g1&gt;жжжжжж&lt;/g1&gt; жжжж.</seg>
+        <seg>هذه كلمة بخط &lt;g1&gt;عريض&lt;/g1&gt;.</seg>
       </tuv>
+      <note>0.8158649802207947</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg>This is my best sentence yet.</seg>
       </tuv>
       <tuv xml:lang="ar">
-        <seg>Жжжж жж жж жжжж жжжжжжжж жжж.</seg>
+        <seg>هذه أفضل جملة لي حتى الآن.</seg>
       </tuv>
+      <note>0.8854201436042786</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg>This is a repeated sentence.</seg>
       </tuv>
       <tuv xml:lang="ar">
-        <seg>Жжжж жж ж жжжжжжжж жжжжжжжж.</seg>
+        <seg>هذه جملة مكررة.</seg>
       </tuv>
-      <prop type="id">1_0</prop>
-      <prop type="file">foo.xml</prop>
+      <note>0.9105713367462158</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg>The following is addressed to a girl:</seg>
       </tuv>
       <tuv xml:lang="ar">
-        <seg>Жжж жжжжжжжжж жж жжжжжжжжж жж ж жжжж:</seg>
+        <seg>ما يلي موجه إلى فتاة:</seg>
       </tuv>
-      <prop type="id">2_0</prop>
-      <prop type="file">foo.xml</prop>
+      <note>0.9270544648170471</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg>What is your age?</seg>
       </tuv>
       <tuv xml:lang="ar">
-        <seg>Жжжж жж жжжж жжж?</seg>
+        <seg>كم عمرك؟</seg>
       </tuv>
-      <prop type="id">3_0</prop>
-      <prop type="file">foo.xml</prop>
+      <note>0.9216062426567078</note>
     </tu>
   </body>
 </tmx>
