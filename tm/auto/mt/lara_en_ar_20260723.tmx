@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tmx version="1.4">
-  <header adminlang="en-us" creationtool="toledo" creationtoolversion="1.0" segtype="sentence" srclang="en" o_tmf="OmegaT"/>
+  <header adminlang="en-us" creationtool="toledo" creationtoolversion="1.0" segtype="sentence" srclang="en" o_tmf="OmegaT">
+    <prop type="quality_estimation">widn</prop>
+  </header>
   <body>
     <tu>
       <tuv xml:lang="en">
