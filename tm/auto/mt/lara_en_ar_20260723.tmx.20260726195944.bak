@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tmx version="1.4">
   <header adminlang="en-us" creationtool="toledo" creationtoolversion="1.0" segtype="sentence" srclang="en" o_tmf="OmegaT">
-    <prop type="quality_estimation">widn</prop>
-    <prop type="qe-model">mqm-qe</prop>
+    <prop type="quality_estimation">lara</prop>
   </header>
   <body>
     <tu>
@@ -12,7 +11,7 @@
       <tuv xml:lang="ar">
         <seg>هذه كلمة بخط &lt;g1&gt;عريض&lt;/g1&gt;.</seg>
       </tuv>
-      <note>0.815865159034729</note>
+      <note>0.779</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -21,7 +20,7 @@
       <tuv xml:lang="ar">
         <seg>هذه أفضل جملة لي حتى الآن.</seg>
       </tuv>
-      <note>0.8854202032089233</note>
+      <note>0.831</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -30,7 +29,7 @@
       <tuv xml:lang="ar">
         <seg>هذه جملة مكررة.</seg>
       </tuv>
-      <note>0.9105714559555054</note>
+      <note>0.825</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -39,7 +38,7 @@
       <tuv xml:lang="ar">
         <seg>ما يلي موجه إلى فتاة:</seg>
       </tuv>
-      <note>0.9270544648170471</note>
+      <note>0.83</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -48,7 +47,7 @@
       <tuv xml:lang="ar">
         <seg>كم عمرك؟</seg>
       </tuv>
-      <note>0.9216064214706421</note>
+      <note>0.835</note>
     </tu>
   </body>
 </tmx>
