@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tmx version="1.4">
   <header adminlang="en-us" creationtool="toledo" creationtoolversion="1.0" segtype="sentence" srclang="en" o_tmf="OmegaT">
-    <prop type="quality_estimation">widn</prop>
-    <prop type="qe-model">mqm-qe</prop>
+    <prop type="translation">lara</prop>
   </header>
   <body>
     <tu>
@@ -10,9 +9,8 @@
         <seg>This is a &lt;g1&gt;bolded&lt;/g1&gt; word.</seg>
       </tuv>
       <tuv xml:lang="ar">
-        <seg>هذه كلمة بخط &lt;g1&gt;عريض&lt;/g1&gt;.</seg>
+        <seg>هذه كلمة بخط &lt;g1&gt;غامق&lt;/g1&gt;.</seg>
       </tuv>
-      <note>0.815865159034729</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -21,7 +19,6 @@
       <tuv xml:lang="ar">
         <seg>هذه أفضل جملة لي حتى الآن.</seg>
       </tuv>
-      <note>0.8854202032089233</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -30,7 +27,8 @@
       <tuv xml:lang="ar">
         <seg>هذه جملة مكررة.</seg>
       </tuv>
-      <note>0.9105714559555054</note>
+      <prop type="id">1_0</prop>
+      <prop type="file">foo.xml</prop>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -39,7 +37,8 @@
       <tuv xml:lang="ar">
         <seg>ما يلي موجه إلى فتاة:</seg>
       </tuv>
-      <note>0.9270544648170471</note>
+      <prop type="id">2_0</prop>
+      <prop type="file">foo.xml</prop>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -48,7 +47,8 @@
       <tuv xml:lang="ar">
         <seg>كم عمرك؟</seg>
       </tuv>
-      <note>0.9216064214706421</note>
+      <prop type="id">3_0</prop>
+      <prop type="file">foo.xml</prop>
     </tu>
   </body>
 </tmx>
