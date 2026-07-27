@@ -9,7 +9,7 @@
         <seg>This is a &lt;g1&gt;bolded&lt;/g1&gt; word.</seg>
       </tuv>
       <tuv xml:lang="ar">
-        <seg>هذه كلمة بخط &lt;g1&gt;غامق&lt;/g1&gt;.</seg>
+        <seg>هذه كلمة بخط &lt;g1&gt;عريض&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
