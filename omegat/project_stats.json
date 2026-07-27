@@ -82,19 +82,19 @@
         "segments": 3
       },
       "remaining": {
-        "characters-without-spaces": 93,
-        "characters": 110,
-        "words": 21,
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
         "files": 0,
-        "segments": 4
+        "segments": 0
       }
     }
   ],
   "remaining": {
-    "characters-without-spaces": 93,
-    "characters": 110,
-    "words": 21,
-    "files": 1,
-    "segments": 4
+    "characters-without-spaces": 0,
+    "characters": 0,
+    "words": 0,
+    "files": 0,
+    "segments": 0
   }
 }

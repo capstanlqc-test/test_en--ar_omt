@@ -12,17 +12,17 @@
         </label>
 
         <label key="uuid201">
-            <text>This is a repeated sentence.</text>
+            <text>هذه جملة مكررة.</text>
         </label>
         <label key="uuid202">
-            <text>The following is addressed to a girl:</text>
+            <text>ما يلي موجه إلى فتاة:</text>
         </label>
         <label key="uuid203">
-            <text>What is your age?</text>
+            <text>كم عمرك؟</text>
         </label>
 
         <label key="uuid301">
-            <text>This is a repeated sentence.</text>
+            <text>هذه جملة مكررة.</text>
         </label>
     </items>
 </file>
