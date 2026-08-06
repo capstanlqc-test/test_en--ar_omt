@@ -1,4 +1,4 @@
-8/6/26, 9:43 AM
+8/6/26, 11:36 AM
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
